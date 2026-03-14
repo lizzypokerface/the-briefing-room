@@ -1,5 +1,5 @@
 # 🛰️ The Briefing Room
-### Strategic Intelligence, Weekly.
+### A private platform dedicated to publishing structured weekly intelligence briefings.
 
 ---
 
